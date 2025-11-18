@@ -1,0 +1,56 @@
+This project uses a retail Superstore dataset to practice basic SQL.
+Here is what we did:
+
+1. Imported the CSV file
+
+The dataset was loaded into a table called raw_superstore.
+
+2. Created clean tables
+
+We made four tables:
+
+customers
+
+products
+
+orders
+
+order_items
+
+3. Moved data into these tables
+
+We inserted customer, product, order, and sales data from raw_superstore into the new tables.
+
+4. Practiced SQL queries
+
+We used:
+
+SELECT
+
+WHERE
+
+ORDER BY
+
+GROUP BY
+
+JOIN
+
+LIMIT
+
+AS (alias)
+
+MONTH(), DATEDIFF() (date functions)
+
+5. Found insights
+
+Examples:
+
+Top-selling products
+
+Monthly sales
+
+Shipping delays
+
+Profit by category
+
+Orders per customer
